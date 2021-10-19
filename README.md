@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **How compilers work**
 
-- 👨‍💻 All of my projects are available at [github.com/winhgaikaung](github.com/winhgaikaung)
+- 👨‍💻 All of my projects are available at [github.com/winhtaikaung](github.com/winhtaikaung)
 
 - 📝 I regularly write articles on [https://winhtaikaung76.medium.com/](https://winhtaikaung76.medium.com/)
 
