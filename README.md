@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Infrastructure auto provisioning**
 
-- 🌱 I’m currently learning **How compilers work**
+- 🌱 I’m currently learning **Programming Languages**
 
 - 👨‍💻 All of my projects are available at [github.com/winhtaikaung](github.com/winhtaikaung)
 
