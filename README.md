@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm I'm Win Htaik Aung</h1>
-<h3 align="center">Software engineer with 7 years of industry experience and currently working with React.js with redux for frontend development. For back end currently working with Golang. Proficient in scaling web applications, containerization & queue management.</h3>
+<h3 align="center">Software engineer with 8 years of industry experience and currently working with React.js with redux for frontend development. For back end currently working with Golang. Proficient in scaling web applications, containerization & queue management.</h3>
 
 - 🔭 I’m currently working on **React Frontend**
 
