@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Win Htaik Aung</h1>
-<h3 align="center">Senior Software engineer with 10 years of industry experience and responsible for designing and developing complex software systems and mentoring other software engineers to be more efficient & productive. Collaborating with cross-functional teams and stakeholders to ensure the successful delivery of software products and cost effective solutions. Currently working with React.js with redux for frontend development. For back end currently working with Golang & Node.JS. Proficient in scaling web applications, architecting, containerization & queue management, team</h3>
+<h3 align="center">Senior Software engineer with 10 years of industry experience and responsible for designing and developing complex software systems and mentoring other software engineers to be more efficient & productive. Collaborating with cross-functional teams and stakeholders to ensure the successful delivery of software products and cost effective solutions. Currently working with React.js with redux for frontend development. For back end currently working with Golang & Node.JS. Proficient in scaling web applications, architecting, containerization & queue management, team </h3>
 
 - 🔭 I’m currently working on **awesome things**
 
