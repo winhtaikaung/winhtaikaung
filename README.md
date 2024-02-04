@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **awesome things**
 
-- 🌱 I’m currently learning **Programming Languages**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [github.com/winhtaikaung](github.com/winhtaikaung)
 
